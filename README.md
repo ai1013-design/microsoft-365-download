@@ -46,6 +46,8 @@ Prepare your system by following these steps:
      - Use your **Office 365 account portal** for direct access.
      - Opt for "Office 365 software download" during trials.
 
+*As the author, I encourage you to explore [Enhance Your Bookkeeping with Smartscan for QuickBooks](https://whips-kicks.com/smartscan-for-quickbooks/) and discover its powerful features for optimizing your financial management.*
+
 ### Warning:
 Running as administrator is critical; ensure permissions are set.
 
